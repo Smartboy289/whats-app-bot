@@ -1,0 +1,5 @@
+.env
+node_modules
+.wwebj_cache
+.wwebj_auth/session
+tmp.js
