@@ -1,5 +1,6 @@
 .env
 node_modules
-.wwebj_cache
-.wwebj_auth
+node_modes_bk
+.wwebjs_cache
+.wwebjs_auth
 tmp.js
